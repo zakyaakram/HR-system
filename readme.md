@@ -16,8 +16,8 @@ This is a Django-based HR system project that allows users to manage branches, d
 
 To install and set up the project, follow these steps:
 
-1. Clone the repository: `git clone [repository_url]`
-2. Navigate to the project directory: `cd [project_directory]`
+1. Clone the repository: `git clone [github.com/zakyaakram/HR-system]`
+2. Navigate to the project directory: `cd [HR-system]`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Create a virtual environment: `python -m venv venv`
 5. Activate the virtual environment: `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Mac/Linux)
